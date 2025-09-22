@@ -20,7 +20,9 @@ pip install -r requirements.txt
 ### Set up MySQL Database
 
 Install MySQL if not already installed.
+
 Create a new database named sem6_project.
+
 Import the provided SQL file to create the necessary tables.
 
 ### Configure Database Connection
@@ -42,23 +44,19 @@ python face.py
 ### Key Features
 
 👥 Add new students and capture their photos
+
 📷 Mark attendance using face recognition
+
 📊 Analyze attendance data with visualizations
+
 📃 Generate attendance reports (PDF format)
+
 🔐 User authentication & authorization
 
 ### Contributions are welcome! 🎉
 Open an issue for bugs or suggestions
+
 Submit a pull request for improvements
 
-### 🙏 Acknowledgments
-face-recognition
- for face recognition functionality
-OpenCV
- for image & video processing
-MySQL Connector/Python
- for database integration
-Tkinter
- for GUI development
 
  ---
