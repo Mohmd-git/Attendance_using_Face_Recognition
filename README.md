@@ -17,13 +17,13 @@ Make sure you have Python installed. Then, install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
-###Set up MySQL Database
+### Set up MySQL Database
 
 Install MySQL if not already installed.
 Create a new database named sem6_project.
 Import the provided SQL file to create the necessary tables.
 
-###Configure Database Connection
+### Configure Database Connection
 Update your MySQL credentials in main.py:
 ```bash
 db = MySQLdb.connect(
@@ -34,12 +34,12 @@ db = MySQLdb.connect(
 )
 ```
 
-###Run the Application:
+### Run the Application:
 ```bash
 python face.py
 ```
 
-###Key Features
+### Key Features
 
 👥 Add new students and capture their photos
 📷 Mark attendance using face recognition
@@ -47,11 +47,11 @@ python face.py
 📃 Generate attendance reports (PDF format)
 🔐 User authentication & authorization
 
-###Contributions are welcome! 🎉
+### Contributions are welcome! 🎉
 Open an issue for bugs or suggestions
 Submit a pull request for improvements
 
-###🙏 Acknowledgments
+### 🙏 Acknowledgments
 face-recognition
  for face recognition functionality
 OpenCV
