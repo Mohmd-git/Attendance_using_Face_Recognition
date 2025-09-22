@@ -9,7 +9,7 @@ Clone the Repository
 Copy code
 git clone 
 ```bash
-git clone https://github.com/ikunalpn/Facial-Attedance-System-Using-Python-Tkinter.git
+git clone https://github.com/Mohmd-git/Attendance_using_Face_Recognition.git
 ```
 
 Install Dependencies
@@ -57,4 +57,5 @@ face-recognition library for face recognition functionality
 OpenCV for image and video processing
 MySQL Connector/Python for MySQL database integration
 Tkinter for creating the GUI
+
 
